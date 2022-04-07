@@ -1,0 +1,10 @@
+body{
+    min-height: max-content;
+    background: url("https://wallpapercave.com/wp/W12bu98.jpg");
+    background-size: cover;
+}
+.tilte{
+    color: white;
+    font-size: 72px;
+    text-align: center;
+}
