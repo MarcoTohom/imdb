@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="imdb" target="1.8" />
+      <module name="imdb" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
